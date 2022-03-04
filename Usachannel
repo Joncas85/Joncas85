@@ -1,12 +1,42 @@
+#EXTM3U
 
-#EXTINF:-1,TELEMUNDO
-http://iphone-streaming.ustream.tv/ustreamVideo/21733416/streams/live/playlist.m3u8
-#EXTINF:0,TELEMUNDO
-http://iphone-streaming.ustream.tv/ustreamVideo/21733416/streams/live/playlist.m3u8
-#EXTINF:-1,UNIVISION
-http://iphone-streaming.ustream.tv/ustreamVideo/21680354/streams/live/playlist.m3u8
-#EXTINF:0,UNIVISION 1
-http://iphone-streaming.ustream.tv/ustreamVideo/21680354/streams/live/playlist.m3u8
+#EXTINF:0,telemundo dallas
+
+http://66.55.92.79:1935/app/chivasss69s-channel/.m3u8?hc_location=ufi
+
+#EXTINF:0,sitel
+
+http://fms.zulu.mk:1935/zulu/sitel_1/smin.m3u8
+
+#EXTINF:0,univision NY
+
+rtmp://167.114.157.90/app/turbomaxs-channel
+
+#EXTINF:0,tvn
+
+http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8?
+
+#EXTINF:0,mega
+
+http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
+
+#EXTINF:0,telemundo
+
+rtmp://167.114.159.155:1935/app/chivasss69s-channel
+
+#EXTINF:0,telemundo
+
+http://iphone-streaming.ustream.tv/uhls/13626003/streams/live/iphone/playlist.m3u8
+
+#EXTINF:0,ARIRANG HD
+
+http://50.7.98.234:1935/rtv/videortv//playlist.m3u8
+
+#EXTINF:0,univision
+
+http://iphone-streaming.ustream.tv/uhls/9747093/streams/live/iphone/playlist.m3u8
+
+
 #EXTIN:-1,US: MSG
 http://stariptv.org:8080/wael2021/123456/148442
 #EXTINF:-1,US: MSGPlus
