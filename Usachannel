@@ -1,4 +1,18 @@
-:-1,US: Cartoon Network HD
+#EXTINF:-1,TELEMUNDO
+
+http://iphone-streaming.ustream.tv/ustreamVideo/21733416/streams/live/playlist.m3u8
+
+#EXTINF:0,TELEMUNDO
+
+http://iphone-streaming.ustream.tv/ustreamVideo/21733416/streams/live/playlist.m3u8
+
+#EXTINF:-1,UNIVISION
+
+http://iphone-streaming.ustream.tv/ustreamVideo/21680354/streams/live/playlist.m3u8
+
+#EXTI:0,UNIVISION
+
+http://iphone-streaming.ustream.tv/ustreamVideo/21680354/streams/live/playlist.m3u8
 http://stariptv.org:8080/wael2021/123456/148441
 #EXTINF:-1,US: MSG
 http://stariptv.org:8080/wael2021/123456/148442
